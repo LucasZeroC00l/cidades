@@ -10,3 +10,5 @@ Atividade: Semana 2 (reforço do aprendido).
 Materia: PC1.
 
 Professores: Ermogenes Palacio e Diego Neri.
+
+Add: + uma tentativa de compreender um erro de edição. (teste1)
